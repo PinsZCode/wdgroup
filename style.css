@@ -1,0 +1,79 @@
+body{
+    background: #0c0f12;
+}
+.navbar{
+    width: 100%;
+}
+
+}
+.menuarea{
+    text-align: center;
+}
+.menuarea h3{
+    font-family: 'Comforter Brush', 'cursive';
+    font-weight:bold;
+}
+.sl{
+    width: 100px;
+    background-color:whitesmoke;
+    padding: 5px 0;
+    border: 1px solid black;
+    float: left;
+    border-radius: 50px;
+    margin-left: 20px;
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.sl h6{
+    font-weight: bold;
+    color: black;
+}
+.sl a{
+    text-decoration: none;
+}
+.musicbox{
+    text-align: center;
+    padding: 50px 0;
+}
+.musicbox img{
+    
+}
+.musicbox a{
+    text-decoration: none;
+    color: black;
+}
+.musicbox h1{
+    text-align: left;
+    color: blanchedalmond;
+}
+.musicbox h5{
+    color: blanchedalmond;
+}
+.musicarea h4{
+    color: whitesmoke;
+}
+.musicarea a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.footarea{
+    margin-left: 250px;
+}
+.footarea ul{
+    list-style: none;
+}
+.footarea ul li{
+    float: left;
+    padding-left: 30px; 
+}
+.footarea a{
+    text-decoration: none;
+    color:white;
+}
+.fdata{
+    text-align: center;
+}
+.fdata h6{
+    color: whitesmoke;
+}
